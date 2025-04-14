@@ -1,0 +1,26 @@
+# Fichiers compilés
+*.class
+
+# Fichiers package
+*.jar
+*.war
+*.ear
+
+# Dossiers de build
+/bin/
+/target/
+/out/
+
+# Fichiers IDE
+/.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de logs
+*.log 
